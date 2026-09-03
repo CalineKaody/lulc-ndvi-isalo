@@ -1,0 +1,13 @@
+# Données lourdes / espace de travail R
+.RData
+_RData
+*.tif
+*.tiff
+
+# R
+.Rhistory
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
